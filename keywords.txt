@@ -1,0 +1,15 @@
+read_write	KEYWORD1
+write_int8_t	KEYWORD2
+write_uint8_t	KEYWORD2
+write_float	KEYWORD2
+write_uint16_t	KEYWORD2
+write_int16_t	KEYWORD2
+write_uint32_t	KEYWORD2
+write_int32_t	KEYWORD2
+read_int8_t	KEYWORD2
+read_uint8_t	KEYWORD2
+read_float	KEYWORD2
+read_uint16_t	KEYWORD2
+read_int16_t	KEYWORD2
+read_uint32_t	KEYWORD2
+read_int32_t	KEYWORD2
